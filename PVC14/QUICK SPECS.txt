@@ -1,0 +1,11 @@
+for use only with PVS14 style tubes, (MX10160, MX11769 format)
+
+uses a cr123a battery
+ 
+pipe for objective and diopter are a PVC pipe that has a bore of 30mm inner diamater
+outer is 1 - 1/4 inch  
+(sorry for mixed units)
+
+Tube pipe uses a pipe with a 1 - 1/2 in Bore, Outer diamater doesnt matter as long as the battery box fits
+
+Screw diamater for the battery box is a M3
