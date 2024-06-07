@@ -1,1 +1,0 @@
-for the threads on the diopter adapter , the pattern is m42 x .64, nx doesnt allow for them to be modeled, i used MS 3d builder to split and splice in the threads from this model "https://www.thingiverse.com/thing:6118674"
